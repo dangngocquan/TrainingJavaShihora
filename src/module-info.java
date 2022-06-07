@@ -1,2 +1,2 @@
-module Shihora1 {
+module Shihora {
 }
